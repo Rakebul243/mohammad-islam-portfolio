@@ -1,17 +1,18 @@
 # Muhammad Islam — Portfolio
 
-A small, responsive student portfolio built with plain HTML and CSS. No framework or build step is needed.
+A small student portfolio built with plain HTML and CSS. No framework or build step is needed.
 
-## Preview
+- **Website:** https://rakebul243.github.io/muhammad-islam-portfolio/
+- **GitHub repository:** https://github.com/Rakebul243/muhammad-islam-portfolio
+
+## Preview locally
 
 Open `index.html` in a browser.
 
-## Update the portfolio
+## Keep building
 
 - Edit the introduction and project descriptions in `index.html`.
-- Add another project by copying one `<article class="project-card">` inside `.project-grid` and updating its title and description.
-- Adjust colors, spacing, and responsive layout in `styles.css`.
+- Add another project by copying one `<article class="project-card">` inside `.project-grid`, then update its title and description.
+- Change colors, spacing, and the mobile layout in `styles.css`.
 
-## Publish with GitHub Pages
-
-In the repository, open **Settings → Pages**. Choose **Deploy from a branch**, select `main` and `/ (root)`, then save. GitHub will show the published site address in that section after the first build.
+Push your changes to the `main` branch and GitHub Pages will publish the update.
