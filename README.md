@@ -1,18 +1,23 @@
-# Muhammad Islam — Portfolio
+# Mohammad Islam — Engineering Portfolio
 
-A small student portfolio built with plain HTML and CSS. No framework or build step is needed.
+A simple, responsive portfolio built with plain HTML and CSS. No framework or build step is needed.
 
-- **Website:** https://rakebul243.github.io/muhammad-islam-portfolio/
-- **GitHub repository:** https://github.com/Rakebul243/muhammad-islam-portfolio
+- **Website:** https://rakebul243.github.io/mohammad-islam-portfolio/
+- **GitHub repository:** https://github.com/Rakebul243/mohammad-islam-portfolio
+- **GitHub profile:** https://github.com/Rakebul243
+- **LinkedIn:** https://linkedin.com/in/morislam
 
-## Preview locally
+## What’s here
 
-Open `index.html` in a browser.
+- Education and technical skills from my résumé
+- Embedded systems, AI workflow, and engineering simulation projects
+- Earlier high-school drone and coded clock builds
+- Experience and leadership highlights
 
 ## Keep building
 
-- Edit the introduction and project descriptions in `index.html`.
-- Add another project by copying one `<article class="project-card">` inside `.project-grid`, then update its title and description.
-- Change colors, spacing, and the mobile layout in `styles.css`.
+- Update project descriptions in `index.html` as each project develops.
+- Add a project by copying an `<article class="project-card">` inside `.project-grid`.
+- Update colors and layout in `styles.css`.
 
-Push your changes to the `main` branch and GitHub Pages will publish the update.
+GitHub Pages publishes the site from the `main` branch.
